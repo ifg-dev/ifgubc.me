@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## 1. Debra Hirsch Book: Redeeming Sex: Naked Conversations about Sexuality and Spirituality
+
+![Redeeming Sex: Naked Conversations about Sexuality and Spirituality]({{site.baseurl}}/http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
+
+- [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
+- [Video Interview with Debra Hirsch](https://www.youtube.com/watch?v=Jb96CCg5e50)
+- [Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
+
 
 You can use the [editor on GitHub](https://github.com/ifg-dev/ifgubc.me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
