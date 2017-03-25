@@ -12,7 +12,6 @@
 ## _Slaves, Women, and Homosexuals_ by William Webb
 
 Here is a short YouTube video summary of Webb’s teaching on Homosexuality
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uddcn_oC9jA" frameborder="0" allowfullscreen></iframe>
 <div class="container">
 <iframe src="//www.youtube.com/embed/Uddcn_oC9jA" 
 frameborder="0" allowfullscreen class="video"></iframe>
@@ -34,7 +33,10 @@ A Christian who is Gay advocating a life of celibacy and service to God. He open
 
 ## What is Sex?
 John Mark Comer answers why “pre-marital sex” does not fit God’s amazing design for the oneness of sex compared to Society’s very low view sex as merely “play for consenting adults”
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bF_5wbmrEsc" frameborder="0" allowfullscreen></iframe>
+<div class="container">
+<iframe src="//www.youtube.com/embed/bF_5wbmrEsc" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 ---
 
