@@ -12,7 +12,7 @@
 ### 2. _Slaves, Women, and Homosexuals_ by William Webb
 
 Here is a short YouTube video summary of Webb’s teaching on Homosexuality
-<iframe width="560" height="315" src="https://youtu.be/Uddcn_oC9jA?t=31m54s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/Uddcn_oC9jA" frameborder="0" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
