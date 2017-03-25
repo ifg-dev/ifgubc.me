@@ -18,7 +18,7 @@ Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
-- [Book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
+Link to the [book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
 
 ---
 
@@ -42,7 +42,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ---
 
 ## “Let’s Talk about Sex” A 5 part Podcast series (2007)
-[Podcasts](http://www.themeetinghouse.com/pageid/1738/)
+Listen to the [podcasts](http://www.themeetinghouse.com/pageid/1738/)
 
 ---
 
