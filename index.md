@@ -1,5 +1,5 @@
 # Topic 3: Sexuality God’s way
-### 1. Debra Hirsch Book: Redeeming Sex: Naked Conversations about Sexuality and Spirituality
+### 1. _Redeeming Sex: Naked Conversations about Sexuality and Spirituality_ by Debra Hirsch
 
 ![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
 
@@ -7,14 +7,12 @@
 - [Video Interview with Debra Hirsch](https://www.youtube.com/watch?v=Jb96CCg5e50)
 - [Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
 
+---
 
-You can use the [editor on GitHub](https://github.com/ifg-dev/ifgubc.me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 2. _Slaves, Women, and Homosexuals_ by William Webb
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here is a short YouTube video summary of Webb’s teaching on Homosexuality
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uddcn_oC9jA" frameborder="0" allowfullscreen></iframe>
 
 ```markdown
 Syntax highlighted code block
