@@ -1,4 +1,5 @@
-## 1. Debra Hirsch Book: Redeeming Sex: Naked Conversations about Sexuality and Spirituality
+# Topic 3: Sexuality God’s way
+### 1. Debra Hirsch Book: Redeeming Sex: Naked Conversations about Sexuality and Spirituality
 
 ![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
 
