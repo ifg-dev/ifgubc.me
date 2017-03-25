@@ -18,7 +18,7 @@ Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
-[Read to the book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
+[Read the book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
 
 ---
 
