@@ -1,6 +1,6 @@
 ## 1. Debra Hirsch Book: Redeeming Sex: Naked Conversations about Sexuality and Spirituality
 
-![Redeeming Sex: Naked Conversations about Sexuality and Spirituality]({{site.baseurl}}/http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
+![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
 
 - [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
 - [Video Interview with Debra Hirsch](https://www.youtube.com/watch?v=Jb96CCg5e50)
