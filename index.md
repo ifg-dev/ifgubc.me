@@ -18,7 +18,7 @@ Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
-Link to the [book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
+[Read to the book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
 
 ---
 
@@ -42,7 +42,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ---
 
 ## “Let’s Talk about Sex” A 5 part Podcast series (2007)
-Listen to the [podcasts](http://www.themeetinghouse.com/pageid/1738/)
+[Listen to the podcasts](http://www.themeetinghouse.com/pageid/1738/)
 
 ---
 
@@ -51,4 +51,4 @@ Two quotes from the book that might spark interest to read the book:
 1. “Sex has been detached from religion, trivialised and emptied of depth and significance, yet it is ‘a sacramental window onto the kingdom of heaven’, reflecting the ‘divine dance’ of the Trinity and a ‘key battleground for Christian formation’”
 2. “Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
 
-[*Book review*](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
+[Read the book review](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
