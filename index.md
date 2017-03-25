@@ -28,30 +28,21 @@ A Christian who is Gay advocating a life of celibacy and service to God. He open
 
 --- 
 
-```markdown
-Syntax highlighted code block
+### 4. What is Sex?
+John Mark Comer answers why “pre-marital sex” does not fit God’s amazing design for the oneness of sex compared to Society’s very low view sex as merely “play for consenting adults”
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bF_5wbmrEsc" frameborder="0" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### 5. “Let’s Talk about Sex” A 5 part Podcast series (2007)
+- [Podcasts](http://www.themeetinghouse.com/pageid/1738/)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### 6. _Divine Sex_ by Jonathan Grant
+Two quotes from the book that might spark interest to read the book:
+1. “Sex has been detached from religion, trivialised and emptied of depth and significance, yet it is ‘a sacramental window onto the kingdom of heaven’, reflecting the ‘divine dance’ of the Trinity and a ‘key battleground for Christian formation’”
+2. “Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
 
-[Link](url) and ![Image](src)
-```
+[*Book review*](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ifg-dev/ifgubc.me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
