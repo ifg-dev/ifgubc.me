@@ -1,5 +1,5 @@
 # Topic 3: Sexuality God’s way
-## _Redeeming Sex: Naked Conversations about Sexuality and Spirituality_ by Debra Hirsch
+### _Redeeming Sex: Naked Conversations about Sexuality and Spirituality_ by Debra Hirsch
 
 ![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
 
