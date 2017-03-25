@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+$header-bg-color: #50C9C3 !default;
+$header-bg-color-secondary: #96DEDA !default;
+
 .container {
     position: relative;
     width: 100%;
