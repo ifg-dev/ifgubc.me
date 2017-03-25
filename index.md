@@ -35,7 +35,7 @@ John Mark Comer answers why “pre-marital sex” does not fit God’s amazing d
 ---
 
 ## “Let’s Talk about Sex” A 5 part Podcast series (2007)
-- [Podcasts](http://www.themeetinghouse.com/pageid/1738/)
+[Podcasts](http://www.themeetinghouse.com/pageid/1738/)
 
 ---
 
@@ -45,4 +45,3 @@ Two quotes from the book that might spark interest to read the book:
 2. “Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
 
 [*Book review*](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
-
