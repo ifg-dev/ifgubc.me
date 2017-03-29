@@ -6,10 +6,11 @@
 
 - [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
 
-Video Interview with Debra Hirsh
+##### Video Interview with Debra Hirsh
 <div class="container">
 <iframe src="//www.youtube.com/embed/Jb96CCg5e50" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
+
 - [Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
 
 ---
