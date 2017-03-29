@@ -36,8 +36,8 @@ frameborder="0" allowfullscreen class="video"></iframe>
 Christopher is a Christian. Christopher is gay.
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
-
 ![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)
+
 [_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 
 #### YouTube Talk: “A Christian Response to Homosexuality"
