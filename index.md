@@ -38,6 +38,8 @@ His story tells of a powerful and painful journey. As a gay man Christopher advo
 
 [![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 
+[More info](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
+
 #### YouTube Talk: “A Christian Response to Homosexuality"
 <div class="container">
 <iframe src="//www.youtube.com/embed/avqCaLR0nLQ" frameborder="0" allowfullscreen class="video"></iframe>
@@ -85,6 +87,8 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 
 ## _Sex and Dating_ 
 [![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)](https://www.ivpress.com/sex-and-dating)
+
+[More info](https://www.ivpress.com/sex-and-dating)
 
 "Are we friends or are we dating? How can I tell?"
 
