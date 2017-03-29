@@ -6,7 +6,7 @@
 
 - [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
 
-##### Video Interview with Debra Hirsh
+#### Video Interview with Debra Hirsh
 <div class="container">
 <iframe src="//www.youtube.com/embed/Jb96CCg5e50" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
@@ -16,6 +16,8 @@
 ---
 
 ## _Slaves, Women, and Homosexuals_ by William Webb
+
+![Slaves, Women, and Homosexuals by Willian Webb](https://www.ivpress.com/Media/Default/Products/1561.jpg)
 
 Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 <div class="container">
