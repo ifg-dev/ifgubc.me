@@ -66,14 +66,35 @@ frameborder="0" allowfullscreen class="video"></iframe>
 
 ---
 
-## “Let’s Talk about Sex” A 5 part Podcast series (2007)
+## “Let’s Talk about Sex”
+![Let's Talk About Sex Podcasts](http://www.themeetinghouse.com/photo/380x213/Lets_Talk_Sex.jpg)
+
+In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explores topics of dating, marriage, and homosexuality using scripture, stories and providing detailed answers to all your questions.
+
 [Listen to the podcasts](http://www.themeetinghouse.com/pageid/1738/)
 
 ---
 
 ## _Divine Sex_ by Jonathan Grant
-Two quotes from the book that might spark interest to read the book:
-1. “Sex has been detached from religion, trivialised and emptied of depth and significance, yet it is ‘a sacramental window onto the kingdom of heaven’, reflecting the ‘divine dance’ of the Trinity and a ‘key battleground for Christian formation’”
-2. “Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
+![Divine Sex by Jonathan Grant](http://www.jubilee-centre.org/wp-content/uploads/2016/05/Divine-Sex-book-cover-e1462281236521.jpg)
+
+“Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
 
 [Read the book review](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
+
+--
+
+## _Sex and Dating_ 
+![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)(https://www.ivpress.com/sex-and-dating)
+
+"Are we friends or are we dating? How can I tell?"
+
+"I'm addicted to male attention. How can I break free?"
+
+"I've been sexually abused. Will that affect my ability to have a good sex life?"
+
+"What's so bad about having friends with benefits?"
+
+"I've been hurt before. How can I ever trust anyone again?"
+
+Real people. Honest questions. In this complicated age of hooking up and uncertain expectations, campus minister Mindy Meier provides Christian insight into the realities of sex and dating. She looks at over thirty key questions about today's relational issues and offers a wealth of real-life stories and practical examples. Enough already with confusing relationships. Turn here for guidance, healing and hope.
