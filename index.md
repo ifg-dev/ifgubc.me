@@ -18,14 +18,13 @@
 ## _Slaves, Women, and Homosexuals_ by William Webb
 
 ![Slaves, Women, and Homosexuals by Willian Webb](https://www.ivpress.com/Media/Default/Products/1561.jpg)
+[Read the book review](https://images-na.ssl-images-amazon.com/images/I/41XOCHL5z8L.jpg)
 
 Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 <div class="container">
 <iframe src="//www.youtube.com/embed/Uddcn_oC9jA" 
-frameborder="0" allowfullscreen class="video"></iframe>
+frameborder="0" allowfullscreen class="video" start="1914"></iframe>
 </div>
-
-[Read the book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
 
 ---
 
