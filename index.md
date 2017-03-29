@@ -35,18 +35,26 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ![Christopher Yuan](http://michaelincontext.com/wp-content/uploads/christopher-yuan-live-event-participant.jpg)
 
 Christopher is a Christian. Christopher is gay.
-
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
 ![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)
 - [_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 
-![Christopher Yuan YouTube Talk](https://img.youtube.com/vi/avqCaLR0nLQ/hqdefault.jpg)
-- [YouTube Talk](https://www.youtube.com/watch?v=avqCaLR0nLQ)
+#### YouTube Talk: “A Christian Response to Homosexuality"
+<div class="container">
+<iframe src="//www.youtube.com/embed/avqCaLR0nLQ" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
-![Christopher Yuan Testimony](https://img.youtube.com/vi/cwmUNqrirO4/hqdefault.jpg)
-- [Christopher’s Testimony](https://www.youtube.com/watch?v=cwmUNqrirO4)
-- [Church talk](https://www.youtube.com/watch?v=Y_KspXItcsw?t=6m47s)
+#### Christopher’s Testimony
+Christopher explains his path of coming out as gay while a dentistry student. He tells about how his life spiraled downwards into drug dealing and eventually arrest by the FBI. He credits his imprisonment as the place where Jesus met him.
+<div class="container">
+<iframe src="//www.youtube.com/embed/cwmUNqrirO4" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+#### Christopher’s Testimony in a church talk
+<div class="container">
+<iframe src="//www.youtube.com/embed/cwmUNqrirO4?start=407" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 --- 
 
