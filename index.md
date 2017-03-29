@@ -88,8 +88,6 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 ## _Sex and Dating_ 
 [![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)](https://www.ivpress.com/sex-and-dating)
 
-[More info](https://www.ivpress.com/sex-and-dating)
-
 "Are we friends or are we dating? How can I tell?"
 
 "I'm addicted to male attention. How can I break free?"
@@ -101,6 +99,8 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 "I've been hurt before. How can I ever trust anyone again?"
 
 Real people. Honest questions. In this complicated age of hooking up and uncertain expectations, campus minister Mindy Meier provides Christian insight into the realities of sex and dating. She looks at over thirty key questions about today's relational issues and offers a wealth of real-life stories and practical examples. Enough already with confusing relationships. Turn here for guidance, healing and hope.
+
+[More info](https://www.ivpress.com/sex-and-dating)
 
 ---
 
