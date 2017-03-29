@@ -86,7 +86,7 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 ---
 
 ## _Sex and Dating_ 
-![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)(https://www.ivpress.com/sex-and-dating)
+[![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)](https://www.ivpress.com/sex-and-dating)
 
 "Are we friends or are we dating? How can I tell?"
 
