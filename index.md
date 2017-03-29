@@ -76,8 +76,8 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 
 ---
 
-## _Divine Sex_ by Jonathan Grant
-![Divine Sex by Jonathan Grant](http://www.jubilee-centre.org/wp-content/uploads/2016/05/Divine-Sex-book-cover-e1462281236521.jpg)
+## [_Divine Sex_ by Jonathan Grant](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
+[![Divine Sex by Jonathan Grant](http://www.jubilee-centre.org/wp-content/uploads/2016/05/Divine-Sex-book-cover-e1462281236521.jpg)](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
 
 “Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
 
@@ -85,7 +85,7 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 
 ---
 
-## _Sex and Dating_ 
+## [_Sex and Dating_](https://www.ivpress.com/sex-and-dating)
 [![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)](https://www.ivpress.com/sex-and-dating)
 
 "Are we friends or are we dating? How can I tell?"
@@ -102,5 +102,5 @@ Real people. Honest questions. In this complicated age of hooking up and uncerta
 
 ---
 
-## What about Pornography?
+## [What about Pornography?](http://hopeforthesold.com/lets-talk-about-pornography/)
 The non-profit organization Hope for the Sold provides excellent resources on how pornography impacts individuals and communities. They explore its connections with the sex trafficking industry and its impact on children who are getting exposed by age 9 on average. [Checkout their videos and blogs.](http://hopeforthesold.com/lets-talk-about-pornography/)
