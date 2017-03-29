@@ -11,6 +11,7 @@
 <iframe src="//www.youtube.com/embed/Jb96CCg5e50" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
+
 - [Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
 
 ---
@@ -34,10 +35,16 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ![Christopher Yuan](http://michaelincontext.com/wp-content/uploads/christopher-yuan-live-event-participant.jpg)
 
 Christopher is a Christian. Christopher is gay.
+
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
+![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)
 - [_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
-- [YouTube Talk](https://www.youtube.com/watch?v=avqCaLR0nLQ )
+
+![Christopher Yuan YouTube Talk](https://img.youtube.com/vi/avqCaLR0nLQ/hqdefault.jpg)
+- [YouTube Talk](https://www.youtube.com/watch?v=avqCaLR0nLQ)
+
+![Christopher Yuan Testimony](https://img.youtube.com/vi/cwmUNqrirO4/hqdefault.jpg)
 - [Christopher’s Testimony](https://www.youtube.com/watch?v=cwmUNqrirO4)
 - [Church talk](https://www.youtube.com/watch?v=Y_KspXItcsw?t=6m47s)
 
