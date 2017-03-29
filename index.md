@@ -1,11 +1,15 @@
 # Sexuality - God’s way
 
-### _Redeeming Sex: Naked Conversations about Sexuality and Spirituality_ by Debra Hirsch
+## _Redeeming Sex: Naked Conversations about Sexuality and Spirituality_ by Debra Hirsch
 
 ![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
 
 - [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
-- [Video Interview with Debra Hirsch](https://www.youtube.com/watch?v=Jb96CCg5e50)
+
+Video Interview with Debra Hirsh
+<div class="container">
+<iframe src="//www.youtube.com/embed/Jb96CCg5e50" frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 - [Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
 
 ---
