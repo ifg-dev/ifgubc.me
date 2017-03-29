@@ -23,14 +23,15 @@
 
 Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 <div class="container">
-<iframe src="//www.youtube.com/embed/Uddcn_oC9jA?start=1914" 
+<iframe src="//www.youtube.com/embed/Uddcn_oC9jA?start=1914&end=2930" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
 ---
 
 ## Christopher Yuan
-A Christian who is Gay advocating a life of celibacy and service to God. He openly shares his hard story of descending from a university Dentistry student into a difficult Gay lifestyle that included drug dealing, prison, and eventually finding Jesus in prison, due in large part to his mother’s prayers.
+Christopher is a Christian. Christopher is gay.
+His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
 - [_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 - [YouTube Talk](https://www.youtube.com/watch?v=avqCaLR0nLQ )
