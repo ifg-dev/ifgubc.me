@@ -36,6 +36,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 Christopher is a Christian. Christopher is gay.
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
+
 ![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)
 [_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 
@@ -82,7 +83,7 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 
 [Read the book review](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
 
---
+---
 
 ## _Sex and Dating_ 
 ![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)(https://www.ivpress.com/sex-and-dating)
@@ -98,3 +99,8 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 "I've been hurt before. How can I ever trust anyone again?"
 
 Real people. Honest questions. In this complicated age of hooking up and uncertain expectations, campus minister Mindy Meier provides Christian insight into the realities of sex and dating. She looks at over thirty key questions about today's relational issues and offers a wealth of real-life stories and practical examples. Enough already with confusing relationships. Turn here for guidance, healing and hope.
+
+---
+
+## What about Pornography?
+The non-profit organization Hope for the Sold provides excellent resources on how pornography impacts individuals and communities. They explore its connections with the sex trafficking industry and its impact on children who are getting exposed by age 9 on average. [Checkout their videos and blogs.](http://hopeforthesold.com/lets-talk-about-pornography/)
