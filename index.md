@@ -4,15 +4,14 @@
 
 ![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
 
-- [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
+[Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
 
 #### Video Interview with Debra Hirsh
 <div class="container">
 <iframe src="//www.youtube.com/embed/Jb96CCg5e50" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
-
-- [Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
+[Debra Hirsch: audio of talk at Urbana Conference]( https://urbana.org/seminar/redeeming-sex-missional-perspective-theology-sexuality-gender-identity)
 
 ---
 
@@ -38,7 +37,7 @@ Christopher is a Christian. Christopher is gay.
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
 ![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)
-- [_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
+[_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 
 #### YouTube Talk: “A Christian Response to Homosexuality"
 <div class="container">
@@ -53,7 +52,7 @@ Christopher explains his path of coming out as gay while a dentistry student. He
 
 #### Christopher’s Testimony in a church talk
 <div class="container">
-<iframe src="//www.youtube.com/embed/cwmUNqrirO4?start=407" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="//www.youtube.com/embed/Y_KspXItcsw?start=407" frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 
 --- 
