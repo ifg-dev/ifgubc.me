@@ -2,7 +2,7 @@
 
 ## _Redeeming Sex: Naked Conversations about Sexuality and Spirituality_ by Debra Hirsch
 
-![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)
+[![Redeeming Sex: Naked Conversations about Sexuality and Spirituality](http://www.seedbed.com/wp-content/uploads/redeeming-sex.jpg)](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
 
 [Book synopsis](http://www.seedbed.com/redeeming-sex-deb-hirsch/)
 
@@ -17,9 +17,9 @@
 
 ## _Slaves, Women, and Homosexuals_ by William Webb
 
-![Slaves, Women, and Homosexuals by Willian Webb](https://www.ivpress.com/Media/Default/Products/1561.jpg)
+[![Slaves, Women, and Homosexuals by Willian Webb](https://www.ivpress.com/Media/Default/Products/1561.jpg)](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
 
-[Read the book review](https://images-na.ssl-images-amazon.com/images/I/41XOCHL5z8L.jpg)
+[Read the book review](https://bible.org/article/easy-x-y-z-review-william-webbs-slaves-women-and-homosexuals)
 
 Here is a short YouTube video summary of Webb’s teaching on Homosexuality
 <div class="container">
@@ -36,9 +36,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 Christopher is a Christian. Christopher is gay.
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
-![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)
-
-[_Out of a Far Country: A Gay Son's Journey to God. A Broken Mother's Search for Hope_ by Christopher Yuan](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
+[![Out of a Far Country book](https://images-na.ssl-images-amazon.com/images/I/51nxTNMDSKL.jpg)](https://www.amazon.ca/Out-Far-Country-Journey-Mothers/dp/0307729354)
 
 #### YouTube Talk: “A Christian Response to Homosexuality"
 <div class="container">
@@ -68,7 +66,7 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ---
 
 ## “Let’s Talk about Sex”
-![Let's Talk About Sex Podcasts](http://www.themeetinghouse.com/photo/380x213/Lets_Talk_Sex.jpg)
+[![Let's Talk About Sex Podcasts](http://www.themeetinghouse.com/photo/380x213/Lets_Talk_Sex.jpg)](http://www.themeetinghouse.com/pageid/1738/)
 
 In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explores topics of dating, marriage, and homosexuality using scripture, stories and providing detailed answers to all your questions.
 
@@ -76,7 +74,7 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 
 ---
 
-## [_Divine Sex_ by Jonathan Grant](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
+## _Divine Sex_ by Jonathan Grant
 [![Divine Sex by Jonathan Grant](http://www.jubilee-centre.org/wp-content/uploads/2016/05/Divine-Sex-book-cover-e1462281236521.jpg)](http://www.jubilee-centre.org/book-review-divine-sex-by-jonathan-grant/)
 
 “Within our hyper-sexualised society, attending to people’s sexual and relational lives must be a critical and compelling part of effective discipleship.”
@@ -85,7 +83,7 @@ In this five part podcast, Pastor Bruxy Cavey of The Meeting House Church explor
 
 ---
 
-## [_Sex and Dating_](https://www.ivpress.com/sex-and-dating)
+## _Sex and Dating_ 
 [![Sex and Dating book](https://www.ivpress.com/Media/Default/Products/3605.jpg)](https://www.ivpress.com/sex-and-dating)
 
 "Are we friends or are we dating? How can I tell?"
@@ -102,5 +100,5 @@ Real people. Honest questions. In this complicated age of hooking up and uncerta
 
 ---
 
-## [What about Pornography?](http://hopeforthesold.com/lets-talk-about-pornography/)
+## What about Pornography?
 The non-profit organization Hope for the Sold provides excellent resources on how pornography impacts individuals and communities. They explore its connections with the sex trafficking industry and its impact on children who are getting exposed by age 9 on average. [Checkout their videos and blogs.](http://hopeforthesold.com/lets-talk-about-pornography/)
