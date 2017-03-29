@@ -30,6 +30,9 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ---
 
 ## Christopher Yuan
+
+![Christopher Yuan](http://michaelincontext.com/wp-content/uploads/christopher-yuan-live-event-participant.jpg)
+
 Christopher is a Christian. Christopher is gay.
 His story tells of a powerful and painful journey. As a gay man Christopher advocates a life of celibacy and service to God.
 
