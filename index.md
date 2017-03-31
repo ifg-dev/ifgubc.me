@@ -109,4 +109,4 @@ The non-profit organization Hope for the Sold provides excellent resources on ho
 
 ---
 
-#### [Additional notes from our study](https://docs.google.com/document/d/1nNGwNkrxkJmvSYAuVqtwBoAMuHpz3Ornagg6Pn2d2SY/edit?usp=sharing)
+## [Living sexually as God’s people: IFG Teaching notes](https://docs.google.com/document/d/1nNGwNkrxkJmvSYAuVqtwBoAMuHpz3Ornagg6Pn2d2SY/edit?usp=sharing)
