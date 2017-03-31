@@ -106,3 +106,7 @@ Real people. Honest questions. In this complicated age of hooking up and uncerta
 
 ## What about Pornography?
 The non-profit organization Hope for the Sold provides excellent resources on how pornography impacts individuals and communities. They explore its connections with the sex trafficking industry and its impact on children who are getting exposed by age 9 on average. [Checkout their videos and blogs.](http://hopeforthesold.com/lets-talk-about-pornography/)
+
+---
+
+#### [Additional notes from our study](https://docs.google.com/document/d/1nNGwNkrxkJmvSYAuVqtwBoAMuHpz3Ornagg6Pn2d2SY/edit?usp=sharing)
